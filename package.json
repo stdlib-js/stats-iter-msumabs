@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-iter-msumabs",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Create an iterator which iteratively computes a moving sum of absolute values.",
   "license": "Apache-2.0",
   "author": {
